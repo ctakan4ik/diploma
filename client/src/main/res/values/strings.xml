@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diploma</string>
+    <string name="logo">Covid helper</string>
+    <string name="btn1">Получить рекомендацию</string>
+    <string name="btn2">Узнать количество заболевших в городе</string>
+    <string name="button">Выбрать город</string>
+    <string name="back">Назад</string>
+</resources>
