@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     DataOutputStream dos;
     PrintWriter pw;
     public static final int PORT = 8080;
-    public static final String HOST = "192.168.0.104";
+    public static final String HOST = "localhost";
     private Button button;
     private Button button2;
     private TextView result;
