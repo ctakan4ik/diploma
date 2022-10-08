@@ -7,7 +7,7 @@ import recommend
 
 while True:
     sock = socket.socket()
-    sock.bind( ('192.168.0.104', 8080) )
+    sock.bind( ('localhost', 8080) )
     sock.listen(1)
     print('waiting for connection...')
     conn, addr = sock.accept()
